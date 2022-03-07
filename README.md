@@ -20,5 +20,5 @@ Welcome back to #MachineLearningMondays
 * DataSet: 'Salary_Data.csv'
 
 Does our salary really grow with our years of working experience? 
-In this week’s topic we will use a simple data-driven approach to verify the fact. We will use linear regression to model the relationship between the amount of salary with the years of working experience. If you are new to linear regression, read this article for getting a clear idea about the implementation of simple linear regression. This post will help you to understand how simple linear regression works step-by-step.
+* In this week’s topic we will use a simple data-driven approach to verify the fact. We will use linear regression to model the relationship between the amount of salary with the years of working experience. If you are new to linear regression, read this article for getting a clear idea about the implementation of simple linear regression. This post will help you to understand how simple linear regression works step-by-step.
 
